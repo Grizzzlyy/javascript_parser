@@ -1,0 +1,11 @@
+let z = + 5;
+z = -+5;
+console.log(z);
+z = +5;
+console.log(z);
+let x = -2;
+let y = ['h', 'e'];
+console.log(y[1 - 1]);
+console.log(y[-x - 1]);
+console.log(y[1-1]);
+console.log(y[-x-1]);
